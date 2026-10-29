@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Subtitle+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Jubler Free Installer** — Jubler is a free, open-source subtitle editor for Windows, macOS, and Linux. Works without internet access, no account required. Full offline installation.
+**💻 Jubler Free Installer** — Jubler is a free, cross-platform subtitle editor for editing and creating subtitle files. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Jubler
 
-Jubler is a free, open-source subtitle editor for Windows, macOS, and Linux. Edit subtitle files in SRT, SSA, ASS, SUB, and other formats with a waveform-synchronized timeline for precise timing adjustment. Translate, merge, and reformat subtitles, and use the built-in spell checker for quality control. Jubler is a capable free tool for creating and editing subtitles for video content.
+Jubler is a free, cross-platform subtitle editor for editing and creating subtitle files. It supports SRT, SSA, ASS, and other common formats with waveform-synced timing, translation tools, and spell checking — useful for translators and video content creators.
 
 ---
 
 ## ❌ Problem: Jubler is hard to access
 
-- **Interface Dated** — Java Swing-based UI looks dated on modern operating systems
-- **Java Dependency** — Requires Java runtime installation
-- **Feature Scope** — Less feature-rich than professional subtitle tools like Subtitle Edit
-- **Performance** — Java overhead can cause sluggishness on large subtitle files
+- **Java Dependency** — Requires Java runtime for installation
+- **Dated Interface** — UI design reflects early 2000s Java Swing aesthetics
+- **Limited Video Playback** — Built-in video preview requires MPlayer or FFmpeg setup
+- **Infrequent Updates** — Development activity has slowed significantly
 
 ---
 
@@ -121,7 +121,7 @@ Jubler is a free, open-source subtitle editor for Windows, macOS, and Linux. Edi
 
 ---
 
-**Jubler Free Installer** — Jubler is a free, open-source subtitle editor for Windows, macOS, and Linux. Install without internet connection today!
+**Jubler Free Installer** — Jubler is a free, cross-platform subtitle editor for editing and creating subtitle files. Install without internet connection today!
 
 <div align="center">
 
